@@ -92,3 +92,7 @@ Build a Machine Learning model to predict car prices.
 Add interactive dashboards using Plotly or Streamlit.
 
 Expand dataset with fuel type, transmission, and owner details.
+<img width="758" height="575" alt="image" src="https://github.com/user-attachments/assets/0362de3f-f4f4-4661-8ee6-4333d2608027" />
+<img width="587" height="510" alt="image" src="https://github.com/user-attachments/assets/6c028e42-ab81-48cb-9b6f-b59bab8a694f" />
+
+
