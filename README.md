@@ -72,7 +72,7 @@ Python (NumPy, Pandas) → Data handling
 
 Matplotlib, Seaborn → Visualization
 
-Scikit-learn (optional) → Predictive modeling (price prediction)
+
 
 🚀 How to Run
 
